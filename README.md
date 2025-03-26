@@ -33,15 +33,19 @@ Extracting error messages into a separate file (error_logs.txt)
 Run the following commands in the terminal:
 
 g++ count_log_levels.cpp -o count_log_levels.exe -std=c++11 -Wall
+
 g++ extract_errors.cpp -o extract_errors.exe -std=c++11 -Wall
+
 g++ save_errors.cpp -o save_errors.exe -std=c++11 -Wall
 
 
 2️⃣ Run the Programs
 To count log levels:
 ./count_log_levels.exe
+
 To extract errors:
 ./extract_errors.exe
+
 To save errors in a file:
 ./save_errors.exe
 📝 Sample log.txt File
