@@ -1,0 +1,7 @@
+[INFO] Server started successfully
+[WARNING] High memory usage detected
+[ERROR] Connection lost to database
+[INFO] User logged in
+[ERROR] Disk read failure
+[WARNING] Low disk space
+[INFO] Shutdown initiated
