@@ -14,13 +14,21 @@ Extracting error messages into a separate file (error_logs.txt)
 📂 Project Structure
 
 📁 Log-file-analyzer
-│── 📜 count_log_levels.cpp    # Counts log levels
-│── 📜 extract_errors.cpp      # Extracts errors from logs
-│── 📜 save_errors.cpp         # Saves errors into a separate file
-│── 📜 log.txt                 # Sample log file
-│── 📜 README.md               # Project documentation
-│── 📜 error_logs.txt          # Output file (generated)
+
+│── 📜 count_log_levels.cpp  
+# Counts log levels
+│── 📜 extract_errors.cpp   
+# Extracts errors from logs
+│── 📜 save_errors.cpp     
+# Saves errors into a separate file
+│── 📜 log.txt             
+# Sample log file
+│── 📜 README.md          
+# Project documentation
+│── 📜 error_logs.txt     
+# Output file (generated)
 🚀 How to Run
+
 1️⃣ Compile the Code
 Run the following commands in the terminal:
 
